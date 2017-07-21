@@ -1,0 +1,9 @@
+NAME: Sukesh Sangam
+UIN : 01060894
+
+1) First compile the PingServer.java file using javac PingServer.java in the command prompt
+2) Then execute the server program using java PingServer 10002 12 
+3) Here the numbers given through the command are the command line arguments , first one is the port number and the second is the optinal argument seed
+4) Now in the another command prompt or on the another machine compile the PingClient.java file using javac PingServer.java in the command prompt
+5) Then execute the client program using java ClientServer atria 10002 , here the atria is the server name and the 10002 is the server port.
+6) Now you can see the desired output at client side and server side.
