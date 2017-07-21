@@ -1,0 +1,21 @@
+Name : Sukesh Sangam   UIN : 01060894
+
+Source file : Prog1.java
+
+Steps to compile:
+
+first check whether java is installed on the machine. For this open command prompt and type " javac " . Then it gives the jdk information, if java is installed. 
+
+After placing the Prog1.java file on any java installed machine,
+
+Place the input.txt file in the same directory where Prog1.java file exists.
+
+Open command prompt and change your current directory to the directory where the Prog1.java file exists.
+
+Then type "javac Prog1.java" to compile the java program
+
+For execution type " java Prog1 "
+
+The output.txt file will generate where you can see the output.
+
+ 
